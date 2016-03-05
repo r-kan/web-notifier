@@ -1,5 +1,6 @@
 # web-notifier
 Notify exactly the web content you care about
+move to https://github.com/sw-craftsmen/web-notifier
 ==========================
 
 Have you ever felt cumbersome when you need periodically browse a web page to check certain content of it?  
